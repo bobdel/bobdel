@@ -1,4 +1,4 @@
-# Not Much to see here. Try [here instead](https://bobdel.com).
+# Not Much to see here. [Try here instead](https://bobdel.com).
 
 ### Hi there 👋
 - 💬 Ask me about iOS Development
